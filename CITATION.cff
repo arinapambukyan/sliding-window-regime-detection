@@ -2,6 +2,7 @@ cff-version: 1.2.0
 message: "If you use this code, please cite the paper and this archive."
 title: "Sliding-window detection of hidden regimes: code"
 version: 1.0.0
+doi: 10.5281/zenodo.24532266
 license: MIT
 authors:
   - family-names: Pambukyan
