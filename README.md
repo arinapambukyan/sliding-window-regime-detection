@@ -4,7 +4,7 @@ Code and results for
 
 A. Pambukyan and H. Nersisyan, *Sliding-Window Detection of Hidden Regimes under Stochastic Switching*, 2026.
 
-Version 1.0.0. It reproduces every figure, table and number of the numerical results
+Version 1.0.0, archived at https://doi.org/10.5281/zenodo.24532266. It reproduces every figure, table and number of the numerical results
 in the paper (Figure 1, Section 6 and Appendix B).
 
 ## Running
